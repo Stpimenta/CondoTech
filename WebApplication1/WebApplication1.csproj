@@ -27,6 +27,7 @@
 
     <ItemGroup>
       <None Remove="Tests\**" />
+      <None Remove=".gitignore" />
     </ItemGroup>
 
 </Project>
