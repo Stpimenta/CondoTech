@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qSLvnc1W7X9/KLNqnmAy/PJIedj/4ooRFEdquv2NswE=",
+  "Source": "WorkerMicroService",
+  "BasePath": "_content/WorkerMicroService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

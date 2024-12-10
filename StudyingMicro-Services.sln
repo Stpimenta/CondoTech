@@ -1,6 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{1A96C452-70A3-4AFB-8418-4473B1E39AD4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CondominiumMicroService", "CondominiumMicroService\CondominiumMicroService.csproj", "{1A96C452-70A3-4AFB-8418-4473B1E39AD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerMicroService", "WorkerMicroService\WorkerMicroService.csproj", "{DB8F78E2-CE89-424D-97C6-BF70DEE3BAED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkOrderMicroService", "WorkOrderMicroService\WorkOrderMicroService.csproj", "{CD06C083-7813-491C-B3AB-9CDE174A8CFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +16,13 @@ Global
 		{1A96C452-70A3-4AFB-8418-4473B1E39AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A96C452-70A3-4AFB-8418-4473B1E39AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A96C452-70A3-4AFB-8418-4473B1E39AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB8F78E2-CE89-424D-97C6-BF70DEE3BAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB8F78E2-CE89-424D-97C6-BF70DEE3BAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB8F78E2-CE89-424D-97C6-BF70DEE3BAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB8F78E2-CE89-424D-97C6-BF70DEE3BAED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD06C083-7813-491C-B3AB-9CDE174A8CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD06C083-7813-491C-B3AB-9CDE174A8CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD06C083-7813-491C-B3AB-9CDE174A8CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD06C083-7813-491C-B3AB-9CDE174A8CFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
